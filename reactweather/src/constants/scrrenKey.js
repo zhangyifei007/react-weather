@@ -1,0 +1,1 @@
+export const WEATHER_CONTAINER_SCREEN = "react_weather.modules.weather.WeatherContainer"
