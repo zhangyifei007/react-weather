@@ -6,4 +6,8 @@
 
 ## 运行
 
-- git clone 
+- git clone https://github.com/zhangyifei007/react-weather.git
+- cd react_weather
+- npm install
+- cd ios
+- open react_weather.xcodeproj
